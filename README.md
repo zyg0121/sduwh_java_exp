@@ -16,4 +16,4 @@ java_experiments of sduwh in 2020 (The course of teacher is Mr. Li)
 
 提交要求：
 1. 三个作业放在一个project下，每个作业对应一个package（homework3、homework6、homework7）。测试各个作业，务必保证project导入到其他机器后可以正常运行。
-（本仓库内的代码支持eclipse和idea导入）
+（本仓库内的代码不支持eclipse和idea导入，需要手动添加，因为懒得用git再传一遍了）
